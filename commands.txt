@@ -1,0 +1,8 @@
+git init   -----> initialise it with git repo
+git add . ------>to take code from working to staging
+git add fileName -----> to take only one code from working to staging
+git commit -m "msg"-----> commit to take code from staging to local repo
+git branch -m main-----> to create the branch
+git remote add origin https://github.com/satyavijayakoka/gitzorbaFAug.git
+
+git push -u origin main
